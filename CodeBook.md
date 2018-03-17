@@ -6,7 +6,7 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 
 # Data Dictionary
-1. Variable: Subjects
+**1. Variable: Subjects
 
 *Type: integer
 
@@ -14,7 +14,8 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 *Description: Identifiers of the 30 subjects who participated in the experiment.
 
-2. Variable: Activities
+
+**2. Variable: Activities
 
 *Type: characters
 
@@ -22,7 +23,8 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 *Description: Six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by subjects wearing a smartphone (Samsung Galaxy S II) on the waist.
 
-3. Variable: tbodyAccMeanX
+
+**3. Variable: tbodyAccMeanX
 
 *Type: double
 
@@ -30,7 +32,8 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 *Description: The mean values of body acceleration in the direction of x axis. This is the average grouped by each subject and each activity. 
 
-4. Variable: tbodyAccMeanY
+
+**4. Variable: tbodyAccMeanY
 
 *Type: double
 
@@ -38,7 +41,8 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 *Description: The mean values of body acceleration in the direction of y axis. This is the average grouped by each subject and each activity. 
 
-5. Variable: tbodyAccMeanZ
+
+**5. Variable: tbodyAccMeanZ
 
 *Type: double
 
@@ -46,7 +50,8 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 *Description: The mean values of body acceleration in the direction of z axis. This is the average grouped by each subject and each activity. 
 
-6. Variable: tbodyAccStdX
+
+**6. Variable: tbodyAccStdX
 
 *Type: double
 
@@ -54,7 +59,8 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 *Description: The standard deviation values of body acceleration in the direction of x axis. This is the average grouped by each subject and each activity. 
 
-7. Variable: tbodyAccStdY
+
+**7. Variable: tbodyAccStdY
 
 *Type: double
 
@@ -62,7 +68,7 @@ In this study, I combined the data of subjects, activities, records into one dat
 
 *Description: The standard deviation values of body acceleration in the direction of y axis. This is the average of the Std values grouped by each subject and each activity. 
 
-8. Variable: tbodyAccStdZ
+**8. Variable: tbodyAccStdZ
 
 *Type: double
 
