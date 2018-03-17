@@ -10,6 +10,6 @@ So, in this study, the following steps were performed to get a readable and summ
 # List of files
 The dataset includes the following files:
 * README.txt
-* CodeBook.text (Description of the variables)
+* CodeBook.md (Description of the variables)
 * SummarizedData.txt (Final data)
-* DataCleanProject.R (R script)
+* run_analysis.R (R script)
